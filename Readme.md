@@ -4,7 +4,7 @@ A Wordpress plugin which gives the ability to zoom in/out on various text elemen
 
 ## Example
 
-![](https://dl.dropboxusercontent.com/s/0rz8ifsq78axtss/A33B3073-FA57-4DF0-9635-6E38986E3B18-26303-0000527247B7BC29.gif?dl=0)
+![screenshot](https://dl.dropboxusercontent.com/s/0rz8ifsq78axtss/A33B3073-FA57-4DF0-9635-6E38986E3B18-26303-0000527247B7BC29.gif)
 
 ## Installation (not necessarily in order)
 
