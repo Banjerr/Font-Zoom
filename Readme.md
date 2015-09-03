@@ -4,7 +4,7 @@ A Wordpress plugin which gives the ability to zoom in/out on various text elemen
 
 ## Example
 
-![fancy screenshot](https://github.com/Banjerr/Font-Zoom/fontZoomExample.gif)
+![fancy screenshot](https://github.com/Banjerr/Font-Zoom/blob/master/fontZoomExample.gif)
 
 ## Installation (not necessarily in order)
 
